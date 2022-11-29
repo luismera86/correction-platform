@@ -1,8 +1,10 @@
-
+import { NavBar } from '@/components';
 
 const App = () => {
   return (
-    <div>App</div>
+    <div>
+      <NavBar/>
+    </div>
   )
 }
 export default App
